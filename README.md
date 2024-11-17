@@ -74,7 +74,7 @@ MAE: 0.522
 
 O Random Forest apresentou o melhor desempenho e foi implantado na aplicação interativa.
 
-##Como Executar o Projeto
+## Como Executar o Projeto
 
 ### 1. Pré-requisitos:
 Certifique-se de ter instalado:
